@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-(img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/revenue-operations-collage_23-2150847854.jpg?w=996&t=st=1706018250~exp=1706018850~hmac=2990aa3f0041601c65466d44feb4569d073dd46d8d1d16fb01c7696164c32d88")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsingh62&label=Profile%20views&color=0e75b6&style=flat" alt="akashsingh62" /> </p>
 
